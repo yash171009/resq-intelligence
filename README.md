@@ -1,0 +1,2 @@
+# resq-intelligence
+Adappt Hackathon
