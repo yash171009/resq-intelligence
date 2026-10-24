@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -79,3 +80,7 @@ export default defineConfig([
 The Strategy Comparison panel runs all three strategies across three deterministic synthetic flood profiles: baseline flood, early surge, and higher water level. Within each profile, all strategies receive the same tick budget and start from fresh world state. Results can be exported as CSV.
 
 These profiles are controlled variations for robustness testing, not calibrated flood forecasts or statistically representative real-world scenarios. Run several tick budgets and compare the full metric set before drawing conclusions. Arrival means reaching a target access road; occupant evacuation is not simulated.
+=======
+# resq-intelligence
+Adappt Hackathon
+>>>>>>> 6086820c822f8a69b5bf3f45d31e0259a9987770
